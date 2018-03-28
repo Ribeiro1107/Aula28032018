@@ -4,6 +4,7 @@ public class Hello {
 		System.out.println("Hello GitHub");
 
 		System.out.println("SENAI melhor curso");
+		System.out.println("GABRIEL RIBEIRO");
 
 	}
 }
